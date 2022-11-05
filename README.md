@@ -24,4 +24,4 @@ Set-ExecutionPolicy Unrestricted
 
 第一次运行服务请按`Ctrl + C`先结束任务，然后在左下角跳出的提示选择允许启动
 
-然后每次在vscode打开这个文件夹服务都会自动启动了，次状态下可以访问`localhost:4000`实时查看更改。
+然后每次在vscode打开这个文件夹服务都会自动启动了，此状态下可以访问`localhost:4000`实时查看更改。
