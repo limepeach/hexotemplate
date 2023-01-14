@@ -4,7 +4,7 @@
         {
             "label": "HEXO dev",
             "type": "shell",
-            "command": "hexo s",
+            "command": "npm run hexo s",
             "problemMatcher": [],
             "presentation": {
                 "echo": false,
